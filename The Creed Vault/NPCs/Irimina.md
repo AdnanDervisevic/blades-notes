@@ -1,0 +1,22 @@
+---
+type: npc
+status: alive
+relationship: favorite contact
+---
+# Irimina
+
+**The Creed's favorite contact.** From the Assassins contact list: "Irimina, a vicious noble. Perhaps a potential patron for your crew?" (p. 100)
+
+## Our history
+
+Irimina and [[Laudius Kinclaith]] screwed over a group of people from the docks when rigging a fight together. The fighter was [[Holtz Welker]]'s student, who built long odds then pulled a high-odds reversal KO. As patron, Irimina got "insurance" the fighter could handle the job. That history gave the crew **-2 status** with the wronged group — but her connections in the **Iruvian Consulate** gave us **+2** there.
+
+## Other ties
+
+Irimina is also the handler for [[Layla Nemat]], who has been dispatched to Doskvol to be initiated into local intrigues under her guidance.
+
+## Open
+
+- Was the rigged fight part of Laudius' fight-throwing scam era, or a separate job?
+- What does she want from The Creed as patron?
+- A noble with Iruvian Consulate ties operating in [[Brightstone]] circles — does she know "Silk" socially as well as professionally?

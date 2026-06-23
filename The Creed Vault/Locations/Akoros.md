@@ -1,0 +1,17 @@
+---
+type: location
+region: The Shattered Isles
+---
+# Akoros
+
+[[Laudius Kinclaith]]'s homeland. See [[The Shattered Isles]] for the wider world.
+
+"A land of dark, petrified forests and rocky hills. The rich coastal cities get their wealth from leviathan hunting and from mining colonies deep inland. The Akorosi are sometimes called 'Imperials' since the Imperium began there. They are generally fair-skinned and dark-haired." (p. 308)
+
+The largest, most industrialized land in the Imperium — home to the capital and [[Doskvol]]. "A diverse conglomeration of cultures that have grown together in close proximity for centuries, somewhat like Europe" (p. 53). Akorosi claim the same heritage as the Immortal Emperor; titles of nobility are based on this heritage (p. 239).
+
+## Named places (map, p. 309)
+
+[[Doskvol]] (north coast), Whitehollow, Wintercliff, Cloudspire, Imperial City (the capital, southeast), Ilesia (west coast), South Point (southern tip).
+
+The north of Akoros has three seasons — frigid winter, short cool summer, long stormy autumn (p. 244).
