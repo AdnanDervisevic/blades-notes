@@ -11,7 +11,13 @@ Ex-military killer-turned-preacher, the muscle of [[The Creed]]. A dangerous and
 
 ## History
 
-Holtz served in the military as a **kill instructor**. Over time he began voicing strange, preachy ideas about death — a personal death-creed — and was discharged by the unit's physician before he could begin converting others to it and undermining the chain of command. To Holtz, violence is scripture: pain received and pain dealt are both "god's lessons," and killing is sacrament rather than work.
+Holtz served in the military as a **kill instructor** before being disgraced and sunk into the lower levels of society — where he met [[Laudius Kinclaith]], and through him [[Victoria Kinclaith]]. Over his career he began voicing strange, preachy ideas about death and was discharged by the unit's physician before he could begin converting others and undermining the chain of command. To Holtz, violence is scripture: pain received and pain dealt are both "god's lessons," and killing is sacrament rather than work.
+
+## The Empty Vessel
+
+Holtz's faith. Its doctrine: all living beings are hollow husks, and only when a husk is broken enough can it be filled with an actual soul. In moments of severe pain or injury — or in the moment before a gruesome death — the husk cracks open and the person can finally feel the truth. This creates the central dilemma: to kill yourself ends the revelation, and then no one will know the truth. So Holtz's calling is to **preserve and spread the truth** — to break husks open without simply destroying them.
+
+> In the book, "The Empty Vessel" is the forgotten-gods cult secretly followed by [[Bazso Baz]] of the [[The Lampblacks|Lampblacks]] (p. 287). Our table has built the doctrine above for it. Whether Holtz and Bazso share the same cult — an awkward link, given their history — is an open thread.
 
 ## The docks fighting ring
 

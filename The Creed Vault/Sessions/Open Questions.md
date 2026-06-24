@@ -1,9 +1,16 @@
 # Open Questions
 
-## To confirm with GM / group
+## Resolved (group agreement)
 
-- [ ] The -2 faction status: session notes say "a group of people from the docks" (the Dockers?), Adnan proposes **the Lampblacks** instead — fits the [[Bazso Baz]] fight-pit history
-- [ ] Which [[Silkshore]] brothel is under our lair? (The book's **Red Lamp**, run by Madame Tesslyn, p. 275, is a ready-made option — or invent one.) Who runs it?
+- [x] **-2 faction = [[The Lampblacks]]** (not "people of the docks") — FROG, Valky, pakris, Adnan agreed
+- [x] Crew framing & relationship web — see [[Concept and Ties]]
+- [x] HQ = the fancy off-limits top floor of [[The Brothel]]
+- [x] How Holtz + the Kinclaith cousins tie to [[Irimina]] — via the rigged fight she financed against the Lampblacks
+
+## Still open
+
+- [ ] Which [[Silkshore]] brothel is [[The Brothel|our lair]]? (The book's **Red Lamp**, run by Madame Tesslyn, p. 275, is a ready-made option — or invent one.) Who owns it?
+- [ ] Does [[Ardeshir Ahreman|Loom]] run the brothel as a "halfway house for people fleeing the law"? (pakris is open to it)
 - [ ] "Laguna" — table name for our canal area; book name is **the Ease** (p. 274)
 
 ## Homework before next session (from GM)

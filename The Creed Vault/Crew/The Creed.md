@@ -19,11 +19,15 @@ Murder-focused **Assassins** crew ("Killers for hire," p. 99). Created in [[Sess
 - Special ability: **Crow's Veil** — "your activities are hidden from the notice of the deathseeker crows. You don't take extra heat when killing is involved on a score" (p. 101)
 - Upgrades: **Assassin Rigging** (2 free load of weapon or gear items, p. 100) + **Hidden Lair**
 
+## Concept
+
+See [[Concept and Ties]] for the full framing and the five-way relationship web. In short: *five people who can pass in high society but command none of its power, gathered in a fixer's brothel and pointed by an Iruvian handler ([[Irimina]]) at a war they each, separately, already had a stake in.*
+
 ## Lair
 
-Small apartment above a brothel in [[Silkshore]], among the canals of **the Ease** (the gondola-navigated northern part of the district, p. 274; the table also called it "Laguna" — not a book name).
+The **fancy, off-limits top floor** of a brothel ([[The Brothel]]) in [[Silkshore]], among the canals of **the Ease** (the gondola-navigated northern part of the district, p. 274; the table also called it "Laguna" — not a book name). Standards above the crew's means: "we have standards, but not the funds to meet those standards in a proper way."
 
-**The arrangement**: if the brothel has a problematic client, we help solve it.
+**The arrangement**: if the brothel has a problematic client, the crew helps solve it.
 
 ## Hunting grounds
 
@@ -36,7 +40,9 @@ Small apartment above a brothel in [[Silkshore]], among the canals of **the Ease
 | Citizens of Silkshore | +1 | Helped us hide our lair |
 | Rail Jacks | -1 | We stole our assassin rigging from their shipment |
 | Iruvian Consulate | +2 | [[Irimina]]'s connections |
-| Group from the docks | -2 | Irimina + [[Laudius Kinclaith]] rigged a fight and screwed them over — *Adnan proposes Lampblacks instead; confirm with GM* |
+| [[The Lampblacks]] | -2 | [[Irimina]] financed the rigged fight (run by [[Laudius Kinclaith]] + [[Holtz Welker]]) that targeted them |
+
+Group-agreed (FROG, Valky, pakris, Adnan): the **-2 is the Lampblacks**, not "people of the docks." This ties the crew to two equal-tier criminal enterprises — the Iruvian-funded [[The Red Sashes|Red Sashes]] (via the +2 Consulate) and the Doskvol-native [[The Lampblacks|Lampblacks]] (the -2) — who are canonically at war, with the higher-echelon conflict running through the Iruvian Consulate.
 
 Rail Jacks, for reference: the men and women who protect the electro-trains from deathlands spirits; recently making noises about forming a union (p. 284).
 

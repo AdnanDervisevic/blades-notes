@@ -20,7 +20,7 @@ An Iruvian man in his mid-forties, with long moustaches and dark hair combed bac
 
 Ardeshir was raised a servant in the noble house of [[House Varaz|Varaz]] and rose to its highest position of service, house steward, charged with keeping the household and all its intricacies running smoothly. That life ended when enemies of the house — almost certainly a rival house — struck without warning, with knives in the dark and soldiers in the courtyard. Ardeshir escaped with his life alongside his protégé and lover, [[Jennah]], and the two found refuge far from the Iruvian dunes, in Doskvol. Despite considerable digging, he has found no evidence that any full member of House Varaz survived. He nurses a desire for vengeance on his fallen masters' behalf.
 
-In Doskvol he quickly found a place in the underworld, helping a struggling brothel keep its business afloat. For skillfully weaving together the threads of a failing enterprise he earned the name **Loom** — fitting in more ways than one.
+In Doskvol he quickly found a place in the underworld, helping a struggling brothel ([[The Brothel]]) keep its business afloat — [[Irimina]] has a connection to the place and brought him in. For skillfully weaving together the threads of a failing enterprise he earned the name **Loom** — fitting in more ways than one. With his house dead, he has no real connections left to fall back on, which keeps him in low circumstances despite his skills. He stays close to Iruvian political ties to learn what happened to [[House Varaz]] — and was introduced to fellow Iruvian [[Layla Nemat]], likely by Irimina. See [[Concept and Ties]].
 
 ## Heritage
 

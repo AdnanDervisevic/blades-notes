@@ -17,7 +17,7 @@ Because it's just Markdown in a folder, the whole vault drops cleanly into Git â
 
 1. Install Obsidian: https://obsidian.md/download
 2. *Open folder as vault* â†’ select `The Creed Vault`.
-3. Start at **`Home.md`**, which indexes every page.
+3. Start at **`Crew/The Creed.md`** (the crew hub) or open the graph view to explore.
 
 ## Vault structure
 

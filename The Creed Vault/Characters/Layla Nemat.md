@@ -20,7 +20,7 @@ Sun-bronzed Iruvian skin, sharp cheekbones, and dark almond-shaped eyes; she car
 
 Born a bastard to the head of one of Iruvia's most powerful houses, Layla was, by tradition, to be forged into a loyal tool of the family's arsenal. She showed an early aptitude for climbing, concealment, and striking where it hurts most — with words or with fists — and was sent to an assassin's school to hone it. There she learned to read human behaviour, to navigate society, and to master the **Butterfly Dance**: a deadly combat art of needles, pins, and hidden blades, taught only to women.
 
-Now a graduate, she has been dispatched to Doskvol to be initiated into local intrigues under the guidance of [[Irimina]], ready to serve her house and homeland.
+Now a graduate, she has been dispatched to Doskvol to be initiated into local intrigues under the guidance of [[Irimina]], ready to serve her house and homeland. She operates as a **deniable asset** — she cannot use her high-society Iruvian connections publicly or for funding, which is why someone of her standing is reduced to low-paid work. When she needed a base in Doskvol, Irimina directed her to [[Ardeshir Ahreman]] and [[The Brothel]]; the two Iruvians may have been introduced by Irimina as a match. See [[Concept and Ties]].
 
 ## The name "Mirage"
 
