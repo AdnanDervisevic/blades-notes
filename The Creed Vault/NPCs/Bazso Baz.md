@@ -19,7 +19,7 @@ Leader of **the Lampblacks** (Tier II faction, p. 287) — the former lamp-light
 - Personality: "charming, open, and ruthless" — and "very sharp" (pp. 220, 287). A whiskey connoisseur.
 - Turf: HQ in the office of a coal warehouse; operates a handful of brothels and cheap drug dens across Crow's Foot (p. 287)
 - Lieutenants: Pickett (second — shrewd, conniving, suspicious), Henner (thug — loyal, reckless)
-- Quirk: secret member of a forgotten-gods cult, "The Empty Vessel," whose needs he sometimes puts ahead of his gang (p. 287)
+- Quirk: secret member of a forgotten-gods cult, [[The Empty Vessel]], whose needs he sometimes puts ahead of his gang (p. 287) — the same cult [[Holtz Welker]] preaches
 - Allies: The Fog Hounds, Gondoliers, **Ironhook Prison** (p. 287)
 - Enemies: The Red Sashes, The Bluecoats, Cabbies (p. 287)
 - Situation: at war with the Red Sashes over turf and vengeance; recruiting every free blade in the district, "doesn't take no for an answer" (p. 287). Working class sees the Lampblacks as folk-hero "lovable rogues."

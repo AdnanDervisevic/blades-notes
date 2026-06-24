@@ -59,7 +59,7 @@ Earn xp when you execute a successful accident, disappearance, murder, or ransom
 - [[Laudius Kinclaith]] — Slide, "Silk" (Adnan)
 - [[Ardeshir Ahreman]] — Spider, "Loom" (Patrik)
 - [[Layla Nemat]] — Lurk, "Mirage" (Valky)
-- [[Holtz Welker]] — Cutter (Ludde)
+- [[Holtz Welker]] — Cutter, "Shepherd" (Ludde)
 - [[Victoria Kinclaith]] — Whisper, "The Veil" (Minetta)
 
 ## Book notes

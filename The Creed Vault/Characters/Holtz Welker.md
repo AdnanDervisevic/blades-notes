@@ -1,39 +1,42 @@
 ---
 type: pc
 playbook: Cutter
-heritage:
+alias: Shepherd
+heritage: Akoros
+background: Military
+vice: Faith
 crew: The Creed
 player: Ludde
 ---
 # Holtz Welker
 
-Ex-military killer-turned-preacher, the muscle of [[The Creed]]. A dangerous and intimidating fighter who treats violence as doctrine.
+Akorosi ex-soldier and preacher of [[The Empty Vessel]], known as **"Shepherd."** The muscle of [[The Creed]] — a dangerous and intimidating fighter who treats violence as doctrine.
+
+## Appearance
+
+An Akorosi man in his forties, with a shaved, stubbled head. Gigantic — he towers over almost everyone in the city. He wears glasses and holds a posed, mild demeanor, but it's the calm of staring a fed lion directly in the eye. Dressed plainly, like a nobleman going out for hard horse-riding: no fancy embellishment, yet meticulous.
 
 ## History
 
-Holtz served in the military as a **kill instructor** before being disgraced and sunk into the lower levels of society — where he met [[Laudius Kinclaith]], and through him [[Victoria Kinclaith]]. Over his career he began voicing strange, preachy ideas about death and was discharged by the unit's physician before he could begin converting others and undermining the chain of command. To Holtz, violence is scripture: pain received and pain dealt are both "god's lessons," and killing is sacrament rather than work.
+Holtz has been in the military since his early teens, working his way up to officer and **"kill instructor."** With long experience of war and combat, he was one of the most potent soldiers on the field and one of its best instructors. As he sank deeper into the faith of [[The Empty Vessel]], the physiker **[[Sawtooth]]** blew the whistle — too many cadets were ending up in the sick bay, badly hurt from his training or rattled by his fanatic ramblings. Holtz was discharged once he became a risk to the chain of command.
 
-## The Empty Vessel
-
-Holtz's faith. Its doctrine: all living beings are hollow husks, and only when a husk is broken enough can it be filled with an actual soul. In moments of severe pain or injury — or in the moment before a gruesome death — the husk cracks open and the person can finally feel the truth. This creates the central dilemma: to kill yourself ends the revelation, and then no one will know the truth. So Holtz's calling is to **preserve and spread the truth** — to break husks open without simply destroying them.
-
-> In the book, "The Empty Vessel" is the forgotten-gods cult secretly followed by [[Bazso Baz]] of the [[The Lampblacks|Lampblacks]] (p. 287). Our table has built the doctrine above for it. Whether Holtz and Bazso share the same cult — an awkward link, given their history — is an open thread.
+Since then he roams the lower streets, where injury and death stalk closely — his sacred ground. It's there he met [[Laudius Kinclaith]], and through him [[Victoria Kinclaith]].
 
 ## The docks fighting ring
 
-Holtz keeps a former **student**, now a pugilist in the fighting rings at the docks. The ring is his church rather than a sport; he does not fight himself — he would kill his opponent — so the student serves as his instrument.
+[[Marlane]], a former cadet who became Holtz's follower, now fights as a pugilist in the docks under his teachings, seeking the truth of [[The Empty Vessel]]. The ring is Holtz's church rather than a sport; he does not fight himself — he would kill his opponent — so Marlane is his instrument.
 
-The student's role in the rigged match that wronged the dockers (the source of [[The Creed]]'s -2 standing): fighting "fight club style," the student repeatedly took beatings to build long odds against himself, then knocked out the heavy favourite in a high-odds reversal. The upset delivered the result that [[Laudius Kinclaith]] and the crew's patron [[Irimina]] had arranged, and gave them their "insurance" that the fighter could handle the work — taking punishment and dealing it alike. Holtz supplied the fighter; in his eyes the affair was never about the rigging money but a pilgrimage for his student, a passage through pain received and pain dealt. The match is where Holtz and Laudius first met.
+Holtz and Marlane were approached by [[Irimina]] and [[Laudius Kinclaith]] and accepted their offer to rig a fight at the docks. Marlane fought "fight club style," repeatedly taking beatings to build long odds, then knocked out the heavy favourite in a high-odds reversal — delivering the upset Irimina and Laudius had arranged to hurt the [[The Lampblacks|Lampblacks]] (the source of [[The Creed]]'s -2 standing). To Holtz it was never about the money: it was a pilgrimage for Marlane, a passage through pain received and pain dealt. The match is where Holtz and Laudius first met.
+
+## Vice
+
+**Faith** — [[The Empty Vessel]].
 
 ---
 
 ## Mechanics
 
 - **Playbook:** Cutter — "a dangerous and intimidating fighter" (p. 66)
-- **Name source:** Holtz and Welker both appear on the book's name lists (p. 55)
-- **Details:** heritage, background, action dots, special ability, friend/rival *to be finalized*
-
-## Open questions
-
-- The student's name (possible shared NPC with Laudius' fight-pit past); the pugilist is a natural friend or rival
-- Whether Holtz's death-creed ties to an in-world faith — the Church of the Ecstasy of the Flesh, the Reconciled, or a forgotten-gods cult such as [[Bazso Baz]]'s "Empty Vessel"
+- **Heritage:** Akoros · **Background:** Military · **Vice:** Faith
+- **Friend/Rival:** [[Marlane]] (former cadet, now follower/pugilist) is a natural close contact
+- **Details:** action dots, special ability *to be finalized*

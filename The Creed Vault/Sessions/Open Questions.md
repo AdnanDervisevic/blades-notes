@@ -31,7 +31,7 @@
 
 - [ ] [[Ardeshir Ahreman]]: action dots, special ability, friend/rival
 - [ ] [[Layla Nemat]]: action dots, special ability, friend/rival
-- [ ] [[Holtz Welker]]: heritage, background, action dots, special ability, friend/rival; name the pugilist student
+- [ ] [[Holtz Welker]]: action dots, special ability (heritage/background/friend [[Marlane]] now set)
 - [ ] [[Victoria Kinclaith]]: the dead Duke's name and title; the occult event behind his death; what her spirit mask looks like
 
 ## From the GM eventually

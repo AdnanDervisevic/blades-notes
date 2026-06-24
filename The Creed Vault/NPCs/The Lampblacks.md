@@ -20,7 +20,7 @@ The faction [[The Creed]] holds **-2** standing with. The crew's grudge is perso
 - **Turf:** HQ in a coal warehouse office; brothels and cheap drug dens across Crow's Foot
 - **Allies:** The Fog Hounds, Gondoliers, Ironhook Prison
 - **Enemies:** The Red Sashes, Bluecoats, Cabbies
-- **Quirk:** Bazso secretly belongs to a forgotten-gods cult, "The Empty Vessel" (see [[Holtz Welker]] — our table has built its own doctrine for this cult)
+- **Quirk:** Bazso secretly belongs to a forgotten-gods cult, [[The Empty Vessel]] — the same faith [[Holtz Welker]] preaches
 - **Reputation:** folk-hero "lovable rogues" among the working class
 
 The Lampblacks–Red Sashes war is canon (p. 204, 287).

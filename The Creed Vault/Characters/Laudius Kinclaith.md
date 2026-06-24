@@ -18,7 +18,7 @@ Blonde and handsome, put together, with green eyes. Dresses in fine suits and ca
 
 ## History
 
-Laudius made his name in the fighting pits, where he ran a long fix: throwing bouts for money. The pits he fought in were run by [[Bazso Baz]] of the Lampblacks. On at least one occasion he ran a rig alongside the noble [[Irimina]], using a fighter supplied by [[Holtz Welker]] — Holtz's student took a sustained beating to build long odds, then knocked out the heavy favourite in a high-odds reversal. The scheme cost a group of dockers badly, and it was at that match that Laudius and Holtz first crossed paths.
+Laudius made his name in the fighting pits, where he ran a long fix: throwing bouts for money. The pits he fought in were run by [[Bazso Baz]] of the Lampblacks. On at least one occasion he ran a rig alongside the noble [[Irimina]], using a fighter supplied by [[Holtz Welker]] — Holtz's follower [[Marlane]] took a sustained beating to build long odds, then knocked out the heavy favourite in a high-odds reversal. The scheme cost a group of dockers badly, and it was at that match that Laudius and Holtz first crossed paths.
 
 His luck broke when a killing exposed the scam. The pits were shut down and Bazso was publicly humiliated, having had no idea what was being run under his nose — a slight he has not forgiven. Laudius was ostracized from the underworld and served a sentence in [[Ironhook Prison]], where he fought in the prison ring and befriended a fellow inmate, [[Harker]].
 
