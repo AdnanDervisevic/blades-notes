@@ -1,4 +1,13 @@
-
+# Large / copyrighted source material
 *.pdf
-
 *.zip
+
+# OS / filesystem junk
+.fuse_hidden*
+.DS_Store
+Thumbs.db
+
+# Obsidian per-user UI state (avoids noisy diffs and merge conflicts)
+The Creed Vault/.obsidian/workspace.json
+The Creed Vault/.obsidian/workspace-mobile.json
+The Creed Vault/.trash/

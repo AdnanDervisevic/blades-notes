@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e34e164cfc958eff",
+        "id": "29f2e18d585bbc0e",
         "type": "tabs",
         "children": [
           {
-            "id": "06bb136fbc890806",
+            "id": "e194191145088a5d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "The Creed Vault/Untitled.base",
-                "bFile": "The Creed Vault/Untitled.base",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Untitled.base  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -194,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "604aaf87a13b71eb",
+  "active": "e194191145088a5d",
   "lastOpenFiles": [
     "Sessions/Session Notes.md",
     "Sessions/Session 0 - 2026-06-10.md",
